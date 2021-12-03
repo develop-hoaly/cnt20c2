@@ -1,0 +1,17 @@
+body {
+    font-size: 62.5%;
+}
+ul{
+  list-style: none
+}
+
+li{
+  float: left;
+  padding: 20px 30px;
+  background: #ccc;
+  cursor: pointer;
+  
+}
+li:hover{
+  opacity: .7;
+}
